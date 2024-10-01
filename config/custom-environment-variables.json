@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"micron_jwtPrivateKey",
+    "db":"micron_connstring"
+}
