@@ -6,7 +6,6 @@ require("./startup/routes")(app);
 require("./startup/prod")(app);
 require("./startup/config");
 
-// require("./startup/seed")
 
 const port = process.env.PORT || 5001;
 
